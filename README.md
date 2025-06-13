@@ -2,5 +2,5 @@
 MY LINUX RICES
 
 ## ORANGE ANIME 
-[screenshot](./anime-orange/screenshot.png)
-(./anime-orange)
+![screenshot](./anime-orange/preview.png)
+[link](./anime-orange)
