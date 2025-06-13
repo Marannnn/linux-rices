@@ -1,0 +1,224 @@
+@import "waybar-colors.css";
+
+* {
+    font-family: Inconsolata-Bold,FontAwesome;
+    font-weight: 500;
+    font-size: 12px;
+    color: @foreground;
+    border-radius: 10px;
+    padding: 4px 0px;
+}
+
+window#waybar {
+	background-color: transparent;
+}
+
+window#waybar.hidden {
+    opacity: 1;
+}
+
+/*
+window#waybar.empty {
+    background-color: transparent;
+}
+window#waybar.solo {
+    background-color: #FFFFFF;
+}
+*/
+
+window#waybar.termite {
+    background-color: #3F3F3F;
+}
+
+window#waybar.chromium {
+    background-color: #000000;
+    border: none;
+}
+
+button {
+    /* Use box-shadow instead of border so the text isn't offset */
+ /*   box-shadow: inset 0 -3px transparent; */
+    /* Avoid rounded borders under each button name */
+    border: none;
+    border-radius: 0;
+}
+
+/* https://github.com/Alexays/Waybar/wiki/FAQ#the-workspace-buttons-have-a-strange-hover-effect */
+button:hover {
+    /*background: inherit;
+    box-shadow: inset 0 -3px #ffffff;
+    */
+}
+
+
+/*### CENTER BAR ###*/
+.modules-center{
+    background-color: @background;
+    padding: 0px 10px;
+    opacity: 0.9;
+}
+
+#clock {
+    padding: 0px 5px;
+}
+
+
+/*#### LEFT BAR ####*/
+.modules-left{
+    background-color: @background;
+    margin: 0px 0px 0px 30px;
+    padding: 0px 0px;
+    opacity: 0.9;
+}
+#workspaces {	
+    
+}
+
+
+#workspaces button {
+    margin: 0px 5px;
+    padding: 0 10px;
+    border-radius: 10px;
+}
+
+
+#workspaces button:hover {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+#workspaces button.active {
+    background-color: @color5;
+}
+
+#workspaces button.urgent {
+    background-color: #eb4d4b;
+}
+
+
+
+/*#### RIGHT BAR ####*/
+.modules-right{
+    background-color: @background;
+    padding: 0px 10px;
+    margin: 0px 30px 0px 0px;
+    opacity: 0.9;
+}
+
+/* If workspaces is the leftmost module, omit left margin */
+.modules-left > widget:first-child > #workspaces {
+    margin-left: 0;
+}
+
+/* If workspaces is the rightmost module, omit right margin */
+.modules-right > widget:last-child > #workspaces {
+    margin-right: 0;
+}
+
+#pulseaudio {
+    padding: 0px 5px;
+}
+
+#network {
+    padding: 0px 5px;
+}
+#network.disconnected {
+}
+
+
+#language {
+    padding: 0px 5px;
+}
+
+#tray {
+    padding: 0px 5px;
+}
+
+#tray > .passive {
+    -gtk-icon-effect: dim;
+}
+
+
+#tray > .needs-attention {
+    -gtk-icon-effect: highlight;
+    background-color: #eb4d4b;
+}
+
+
+#custom-power{
+    padding: 0px 5px;
+}
+
+
+#custom-media {
+    background-color: #66cc99;
+    min-width: 100px;
+}
+
+#custom-media.custom-spotify {
+    background-color: #66cc99;
+}
+
+#custom-media.custom-vlc {
+    background-color: #ffa000;
+}
+
+/*
+#temperature {
+    background-color: #f0932b;
+}
+
+#temperature.critical {
+    background-color: #eb4d4b;
+}
+*/
+#idle_inhibitor {
+    background-color: #2d3436;
+}
+
+#idle_inhibitor.activated {
+    background-color: #ecf0f1;
+}
+
+
+#keyboard-state {
+    background: #97e1ad;
+    padding: 0 0px;
+    margin: 0 5px;
+    min-width: 16px;
+}
+
+#keyboard-state > label {
+    padding: 0 5px;
+}
+
+#keyboard-state > label.locked {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+#scratchpad {
+    background: rgba(0, 0, 0, 0.2);
+}
+
+#scratchpad.empty {
+	background-color: transparent;
+}
+
+#privacy {
+    padding: 0;
+}
+
+#privacy-item {
+    padding: 0 5px;
+}
+
+#privacy-item.screenshare {
+    background-color: #cf5700;
+}
+
+#privacy-item.audio-in {
+    background-color: #1ca000;
+}
+
+#privacy-item.audio-out {
+    background-color: #0069d4;
+}

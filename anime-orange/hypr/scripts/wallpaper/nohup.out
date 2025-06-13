@@ -1,0 +1,1209 @@
+[2025-05-09 13:15:18.434] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:15:18.436] [info] Discovered appearance 'dark'
+[2025-05-09 13:15:18.436] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:15:18.444] [info] Hyprland IPC starting
+[2025-05-09 13:15:18.445] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:15:18.445] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.461] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:15:18.503] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:15:18.506] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:18.521] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:15:18.601] [warning] Requested height: 30 is less than the minimum height: 41 required by the modules
+[2025-05-09 13:15:18.601] [info] Bar configured (width: 2560, height: 41) for output: DP-1
+[2025-05-09 13:15:18.601] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:15:18.620] [warning] Requested height: 30 is less than the minimum height: 41 required by the modules
+[2025-05-09 13:15:18.620] [info] Bar configured (width: 1920, height: 41) for output: DP-2
+[2025-05-09 13:15:27.071] [info] Quitting.
+[2025-05-09 13:15:27.075] [info] Hyprland IPC stopping...
+[2025-05-09 13:15:34.208] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:15:34.210] [info] Discovered appearance 'dark'
+[2025-05-09 13:15:34.210] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:15:34.216] [info] Hyprland IPC starting
+[2025-05-09 13:15:34.217] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:15:34.217] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.228] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:15:34.249] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:15:34.249] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:15:34.263] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:15:34.323] [warning] Requested height: 30 is less than the minimum height: 41 required by the modules
+[2025-05-09 13:15:34.323] [info] Bar configured (width: 2560, height: 41) for output: DP-1
+[2025-05-09 13:15:34.324] [warning] Requested height: 30 is less than the minimum height: 41 required by the modules
+[2025-05-09 13:15:34.324] [info] Bar configured (width: 1920, height: 41) for output: DP-2
+[2025-05-09 13:15:34.324] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:17:07.596] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:17:07.598] [info] Discovered appearance 'dark'
+[2025-05-09 13:17:07.598] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:17:07.618] [info] Hyprland IPC starting
+[2025-05-09 13:17:07.621] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:17:07.622] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.635] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:17:07.659] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:17:07.660] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.679] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:17:07.680] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:17:07.762] [warning] Requested height: 30 is less than the minimum height: 41 required by the modules
+[2025-05-09 13:17:07.762] [info] Bar configured (width: 2560, height: 41) for output: DP-1
+[2025-05-09 13:17:07.765] [warning] Requested height: 30 is less than the minimum height: 41 required by the modules
+[2025-05-09 13:17:07.765] [info] Bar configured (width: 1920, height: 41) for output: DP-2
+[2025-05-09 13:30:07.485] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:30:07.491] [info] Discovered appearance 'dark'
+[2025-05-09 13:30:07.491] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:30:07.502] [info] Hyprland IPC starting
+[2025-05-09 13:30:07.503] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:30:07.503] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.521] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:30:07.545] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:30:07.549] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:30:07.562] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:07.563] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:30:07.616] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:30:07.616] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:30:07.616] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:30:07.616] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:30:15.402] [info] Quitting.
+[2025-05-09 13:30:15.405] [info] Hyprland IPC stopping...
+[2025-05-09 13:30:16.869] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:30:16.871] [info] Discovered appearance 'dark'
+[2025-05-09 13:30:16.871] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:30:16.877] [info] Hyprland IPC starting
+[2025-05-09 13:30:16.877] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:30:16.878] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.888] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:30:16.908] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:30:16.909] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:16.923] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:30:16.982] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:30:16.982] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:30:16.982] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:30:16.990] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:30:16.990] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:30:16.990] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:30:37.006] [info] Quitting.
+[2025-05-09 13:30:37.011] [info] Hyprland IPC stopping...
+[2025-05-09 13:30:37.773] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:30:37.774] [info] Discovered appearance 'dark'
+[2025-05-09 13:30:37.774] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:30:37.780] [info] Hyprland IPC starting
+[2025-05-09 13:30:37.781] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:30:37.782] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.793] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:30:37.812] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:30:37.816] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.828] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:37.829] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:30:37.876] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:30:37.876] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:30:37.876] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:30:37.878] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:30:37.878] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:30:37.878] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:30:39.848] [info] Quitting.
+[2025-05-09 13:30:39.852] [info] Hyprland IPC stopping...
+[2025-05-09 13:30:45.972] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:30:45.974] [info] Discovered appearance 'dark'
+[2025-05-09 13:30:45.974] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:30:45.980] [info] Hyprland IPC starting
+[2025-05-09 13:30:45.981] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:30:45.981] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:45.991] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:30:46.009] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:30:46.013] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:30:46.024] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:30:46.085] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:30:46.085] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:30:46.085] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:30:46.085] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:31:05.828] [info] Quitting.
+[2025-05-09 13:31:05.832] [info] Hyprland IPC stopping...
+[2025-05-09 13:31:16.535] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:31:16.537] [info] Discovered appearance 'dark'
+[2025-05-09 13:31:16.537] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:31:16.543] [info] Hyprland IPC starting
+[2025-05-09 13:31:16.545] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:31:16.546] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.556] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.557] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.557] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.557] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.557] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.557] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.557] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:31:16.576] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:31:16.578] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:16.591] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:31:16.637] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:31:16.637] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:31:16.637] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:31:16.637] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:31:18.142] [info] Quitting.
+[2025-05-09 13:31:18.146] [info] Hyprland IPC stopping...
+[2025-05-09 13:31:18.925] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:31:18.927] [info] Discovered appearance 'dark'
+[2025-05-09 13:31:18.927] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:31:18.932] [info] Hyprland IPC starting
+[2025-05-09 13:31:18.934] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:31:18.934] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.944] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:31:18.963] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:31:18.966] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:18.980] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:31:19.024] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:31:19.024] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:31:19.024] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:31:19.025] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:31:19.025] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:31:19.025] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:31:52.138] [info] Quitting.
+[2025-05-09 13:31:52.141] [info] Hyprland IPC stopping...
+[2025-05-09 13:31:52.732] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:31:52.733] [info] Discovered appearance 'dark'
+[2025-05-09 13:31:52.733] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:31:52.739] [info] Hyprland IPC starting
+[2025-05-09 13:31:52.740] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:31:52.740] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.750] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:31:52.769] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:31:52.772] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:31:52.787] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:31:52.858] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:31:52.858] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:31:52.858] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:31:52.877] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:31:52.877] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:32:40.036] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:32:40.038] [info] Discovered appearance 'dark'
+[2025-05-09 13:32:40.038] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:32:40.044] [info] Hyprland IPC starting
+[2025-05-09 13:32:40.045] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:32:40.045] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.058] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:32:40.079] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:32:40.081] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.093] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.094] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.094] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.094] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.094] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:32:40.094] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:32:40.144] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:32:40.145] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:32:40.145] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:32:40.147] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:32:40.147] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:32:40.147] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:33:03.694] [info] Quitting.
+[2025-05-09 13:33:03.697] [info] Hyprland IPC stopping...
+[2025-05-09 13:33:04.287] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:33:04.288] [info] Discovered appearance 'dark'
+[2025-05-09 13:33:04.288] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:33:04.294] [info] Hyprland IPC starting
+[2025-05-09 13:33:04.296] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:33:04.296] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.306] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:33:04.324] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:33:04.326] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:04.342] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:33:04.390] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:33:04.390] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:33:04.390] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:33:04.390] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:33:14.333] [info] Quitting.
+[2025-05-09 13:33:14.336] [info] Hyprland IPC stopping...
+[2025-05-09 13:33:14.947] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:33:14.949] [info] Discovered appearance 'dark'
+[2025-05-09 13:33:14.949] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:33:14.955] [info] Hyprland IPC starting
+[2025-05-09 13:33:14.956] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:33:14.956] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:14.967] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:33:14.987] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:33:14.994] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:15.008] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:33:15.053] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:33:15.053] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:33:15.053] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:33:15.053] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:33:15.053] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:33:15.053] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:33:22.519] [info] Quitting.
+[2025-05-09 13:33:22.522] [info] Hyprland IPC stopping...
+[2025-05-09 13:33:22.996] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:33:22.997] [info] Discovered appearance 'dark'
+[2025-05-09 13:33:22.997] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:33:23.004] [info] Hyprland IPC starting
+[2025-05-09 13:33:23.004] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:33:23.005] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.016] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:33:23.035] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:33:23.038] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:33:23.050] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:33:23.095] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:33:23.095] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:33:23.095] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:33:23.096] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:33:23.096] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:33:23.096] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:44:53.516] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:44:53.519] [info] Discovered appearance 'dark'
+[2025-05-09 13:44:53.519] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:44:53.527] [info] Hyprland IPC starting
+[2025-05-09 13:44:53.528] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:44:53.529] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.539] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:44:53.558] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:44:53.559] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:44:53.569] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:44:53.614] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:44:53.614] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:44:53.614] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:44:53.615] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:44:53.615] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:44:53.615] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:45:08.984] [info] Quitting.
+[2025-05-09 13:45:08.987] [info] Hyprland IPC stopping...
+[2025-05-09 13:45:33.256] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:45:33.257] [info] Discovered appearance 'dark'
+[2025-05-09 13:45:33.257] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:45:33.263] [info] Hyprland IPC starting
+[2025-05-09 13:45:33.264] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:45:33.265] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.276] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:45:33.294] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:45:33.294] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.305] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.306] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.306] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.306] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.306] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:45:33.306] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:45:33.345] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:45:33.345] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:45:33.345] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:45:33.345] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:45:33.345] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:45:33.345] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:46:04.563] [info] Quitting.
+[2025-05-09 13:46:04.566] [info] Hyprland IPC stopping...
+[2025-05-09 13:46:29.397] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:46:29.405] [info] Discovered appearance 'dark'
+[2025-05-09 13:46:29.405] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:46:29.419] [info] Hyprland IPC starting
+[2025-05-09 13:46:29.421] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:46:29.422] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.438] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:46:29.467] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:46:29.476] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:46:29.488] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:46:29.558] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:46:29.558] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:46:29.562] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:46:29.562] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:47:43.174] [info] Quitting.
+[2025-05-09 13:47:43.177] [info] Hyprland IPC stopping...
+[2025-05-09 13:48:07.596] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 13:48:07.598] [info] Discovered appearance 'dark'
+[2025-05-09 13:48:07.598] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 13:48:07.603] [info] Hyprland IPC starting
+[2025-05-09 13:48:07.604] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:48:07.605] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.615] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:48:07.634] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 13:48:07.636] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 13:48:07.647] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 13:48:07.689] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:48:07.689] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 13:48:07.690] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:48:07.690] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 13:48:07.690] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 13:48:07.690] [error] Item '': No icon name or pixmap given.
+[2025-05-09 13:58:03.728] [info] Quitting.
+[2025-05-09 13:58:03.732] [info] Hyprland IPC stopping...
+[2025-05-09 18:43:16.224] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 18:43:16.225] [info] Discovered appearance 'dark'
+[2025-05-09 18:43:16.225] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 18:43:16.232] [info] Hyprland IPC starting
+[2025-05-09 18:43:16.233] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 18:43:16.234] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.247] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 18:43:16.265] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 18:43:16.266] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:43:16.278] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 18:43:16.326] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 18:43:16.326] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.327: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.327: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.327: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.327: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.328: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.328: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.329: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.329: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.329: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.329: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.329: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.329: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.330: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.330: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.331: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.331: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.331: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.331: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.331: gtk_widget_set_accel_path: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+
+(waybar:84730): Gtk-CRITICAL **: 18:43:16.331: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[2025-05-09 18:43:16.332] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 18:43:16.332] [info] Bar configured (width: 1920, height: 49) for output: DP-2
+[2025-05-09 18:54:33.332] [info] Using configuration file /home/maran/.config/waybar/config.jsonc
+[2025-05-09 18:54:33.334] [info] Discovered appearance 'dark'
+[2025-05-09 18:54:33.334] [info] Using CSS file /home/maran/.config/waybar/style.css
+[2025-05-09 18:54:33.340] [info] Hyprland IPC starting
+[2025-05-09 18:54:33.341] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 18:54:33.341] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.357] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 18:54:33.380] [info] Loading persistent workspaces from Hyprland workspace rules
+[2025-05-09 18:54:33.381] [error] media stopped unexpectedly, is it endless?
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event17 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event16 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event15 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event14 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event13 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event12 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event11 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event10 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event9 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event8 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event7 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/mouse1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/mouse0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/mice (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event6 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event5 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event4 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event3 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event2 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event1 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] Can't open /dev/input/event0 (are you in the input group?): EACCES Operace zamítnuta
+[2025-05-09 18:54:33.396] [warning] module keyboard-state: Disabling module "keyboard-state", Failed to find keyboard device: EACCES Operace zamítnuta
+[2025-05-09 18:54:33.457] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 18:54:33.457] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2025-05-09 18:54:33.457] [warning] Requested height: 30 is less than the minimum height: 49 required by the modules
+[2025-05-09 18:54:33.457] [info] Bar configured (width: 1920, height: 49) for output: DP-2
