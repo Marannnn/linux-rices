@@ -1,0 +1,54 @@
+@import "waybar-colors.css";
+
+* {
+    font-family: Inconsolata-Bold,FontAwesome;
+    font-weight: 500;
+    font-size: 12px;
+	background-color: transparent;
+}
+
+window#waybar {
+	background-color: @background;
+}
+
+#workspaces button {
+	border-radius: 0px;
+	color: #dbdad6;
+}
+#workspaces button.active {
+	background-color: @color1;
+	color: #ffffff;
+}
+#workspaces button:hover {
+	color: #ffffff;
+}
+
+
+
+/*#####	RIGHT	#####*/
+
+#pulseaudio {
+	margin: 0px 3px;
+}
+
+#network {
+	margin: 0px 3px;
+}
+
+#language {
+	margin: 0px 3px;
+}
+
+#tray {
+	margin: 0px 3px;
+}
+#custom-power {
+	margin: 0px 5px 0px 3px;
+}
+
+/* celkovy selektor pro Gtk menu (tray, custom-power atd. */
+menu {
+    background-color: @background;
+    color: white;
+}
+

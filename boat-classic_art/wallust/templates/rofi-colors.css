@@ -1,0 +1,27 @@
+window{
+  background-color: {{background}};
+}
+
+inputbar{
+  background-color: {{background}};
+  text-color: {{foreground}};
+}
+
+prompt{
+  background-color: {{background}};
+  text-color: #ffff;
+}
+
+listview{
+  background-color: {{background}};
+}
+
+element selected normal{
+  background-color: {{color1}};
+  text-color: #ffff;
+}
+
+
+element{
+  background-color: {{color3}};
+}

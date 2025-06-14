@@ -1,0 +1,10 @@
+general.import = ["alacritty-colors.toml"]
+
+[window]
+padding = {x = 15, y = 15}
+opacity = 0.9
+[font]
+normal = {family = "Fira Code", style = "Medium"} 
+size = 10.0
+
+
